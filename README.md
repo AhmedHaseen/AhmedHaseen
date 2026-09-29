@@ -10,7 +10,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Aspiring+Data+Engineer;Intern+Data+Analyst+%40+MAS+Holdings;Turning+Raw+Data+Into+Actionable+Insights;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&random=false&width=520&height=45&lines=Intern+Data+Analyst+%40+MAS+Holdings;Turning+Raw+Data+Into+Insights+%F0%9F%93%8A;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Aspiring+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,8 +22,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh.ahmedhaseen.ai@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedHaseen)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AhmedHaseen&style=for-the-badge&color=0e75b6)
-  
 </div>
 
 <br/>
@@ -31,39 +29,45 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
+<table>
+<tr>
+<td>
+
+🎓 &nbsp;Software Engineering undergraduate at **Sabaragamuwa University of Sri Lanka** (GPA: 3.65/4.00)
+
+🏢 &nbsp;Currently an **Intern Data Analyst** at **MAS Holdings** — MAS Intimates, Vidiyal Plant
+
+📊 &nbsp;Passionate about **Data Analytics**, **Business Intelligence**, and **Data Engineering**
+
+🔧 &nbsp;Hands-on experience with **SQL**, **Power BI**, **Excel**, and **Python** through end-to-end analytics projects
+
+🏭 &nbsp;Gaining industry exposure to **SAP-based data handling**, warehouse operations, reporting & data-driven decision-making
+
+🔄 &nbsp;Developing skills in **data transformation**, **databases**, **data pipelines** & **data integration**
+
+🎯 &nbsp;Goal: Build strong capabilities across both **analytics & engineering** to create reliable, data-driven solutions
+
+🥋 &nbsp;Karate **Black Belt 2nd Dan** (Nidan) | 🥉 Taekwondo **Bronze Medalist** — Inter-University Games 2025
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>⚡ Quick Glance</b></summary>
+<br/>
+
 ```yaml
-name: Ahmed Haseen
-location: Sri Lanka 🇱🇰
-education:
-  degree: BSc (Hons) in Software Engineering
-  university: Sabaragamuwa University of Sri Lanka
-  gpa: 3.65 / 4.00
-  expected_graduation: 2027
-
-role: Data Analyst | Business Intelligence | Aspiring Data Engineer
-
-current_position:
-  title: Intern Data Analyst
-  company: MAS Holdings — MAS Intimates, Vidiyal Plant
-  department: Finished Good Warehouse Department
-  started: September 2026
-
-currently_learning:
-  - Predictive Analytics & Machine Learning
-  - Advanced DAX & Data Modeling
-  - SAP-Based Data Handling & Reporting
-
-interests:
-  - Data Storytelling & Visualization
-  - Business Intelligence & KPI Reporting
-  - Exploratory Data Analysis (EDA)
-
-fun_facts:
-  - 🥋 Karate Black Belt 2nd Dan (Nidan)
-  - 🥉 Taekwondo Bronze Medalist — Inter-University Games 2025
+📍 Location:      Sri Lanka
+🎓 University:    Sabaragamuwa University of Sri Lanka
+📚 Degree:        BSc (Hons) in Software Engineering (2023–2027)
+📊 GPA:           3.65 / 4.00
+🏢 Current Role:  Intern Data Analyst @ MAS Holdings
+🔭 Exploring:     Data Engineering, ETL Pipelines, Azure
+🌱 Learning:      Predictive Analytics, Advanced DAX, Machine Learning
 ```
 
-<br/>
+</details>
 
 <!-- CURRENT ROLE -->
 ## 🏢 Currently Working At
