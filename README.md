@@ -140,24 +140,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
     <img src="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
   </picture>
 </div>
 
@@ -175,7 +164,7 @@
 | 📊 | [**Data Careers Dashboard**](https://github.com/AhmedHaseen/data-careers-powerbi-dashboard) | `Power BI` `Power Query` `DAX` | Interactive dashboard analyzing 630+ data professionals' survey responses |
 | 🗄️ | [**Global Layoffs EDA**](https://github.com/AhmedHaseen/mysql-portfolio-project) | `MySQL` | Workforce reduction trends analysis using CTEs, window & ranking functions |
 | 🚲 | [**Bike Sales Analysis Dashboard**](https://github.com/AhmedHaseen/Excel-Bike-Sales-Analysis) | `Microsoft Excel` | Interactive dashboard with Pivot Tables, Charts & Slicers |
-| 📚 | [**MySQL Learning Journey**](https://github.com/AhmedHaseen/mysql-learning-journey) | `MySQL` | Comprehensive SQL learning path from basics to advanced queries |
+| 🤖 | [**ConfidFace — AI Web App**](https://github.com/AhmedHaseen/ConfidFace-Web-App) | `JavaScript` `AI/ML` `Full Stack` | AI-powered face confidence analysis web application |
 
 </div>
 
@@ -213,17 +202,7 @@
 
 <br/>
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- CONTRIBUTION SNAKE -->
 <!-- Uncomment below after setting up the GitHub Action (instructions in the setup guide) -->
