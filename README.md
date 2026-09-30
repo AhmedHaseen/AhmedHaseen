@@ -148,6 +148,15 @@
 
 <br/>
 
+<!-- TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./trophies.svg" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
 ## 📂 Featured Projects
 

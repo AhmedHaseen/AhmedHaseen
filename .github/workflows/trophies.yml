@@ -1,0 +1,30 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  generate-trophies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Trophy SVG
+        run: |
+          curl -f -o trophies.svg "https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" || \
+          curl -f -o trophies.svg "https://github-profile-trophy-sigma.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" || \
+          echo "Trophy services unavailable, keeping existing file"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophies.svg 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "🏆 Auto-update GitHub Trophies"
+          git push || true
