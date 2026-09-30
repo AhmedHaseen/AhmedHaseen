@@ -152,7 +152,14 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="./trophies.svg" alt="GitHub Trophies" />
+
+  <img src="https://img.shields.io/badge/🏆_Repos-15+-64FFDA?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🔥_Contributions-357+-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📅_Streak-7_Days-F2C811?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⭐_Commits-350+-4FC3F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🔀_Pull_Requests-Active-A371F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📊_Projects-6+_Analytics-00C853?style=for-the-badge&labelColor=0D1117" />
+
 </div>
 
 <br/>
