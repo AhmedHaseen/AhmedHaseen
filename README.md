@@ -136,32 +136,14 @@
 
 <br/>
 
-<!-- GITHUB STATS -->
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
-</div>
+<!-- GITHUB STREAK -->
+## 🔥 GitHub Streak
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
     <img src="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
   </picture>
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
