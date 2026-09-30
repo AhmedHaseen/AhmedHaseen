@@ -178,7 +178,7 @@
 | 📊 | [**Data Careers Dashboard**](https://github.com/AhmedHaseen/data-careers-powerbi-dashboard) | `Power BI` `Power Query` `DAX` | Interactive dashboard analyzing 630+ data professionals' survey responses |
 | 🗄️ | [**Global Layoffs EDA**](https://github.com/AhmedHaseen/mysql-portfolio-project) | `MySQL` | Workforce reduction trends analysis using CTEs, window & ranking functions |
 | 🚲 | [**Bike Sales Analysis Dashboard**](https://github.com/AhmedHaseen/Excel-Bike-Sales-Analysis) | `Microsoft Excel` | Interactive dashboard with Pivot Tables, Charts & Slicers |
-| 🤖 | [**ConfidFace — AI Web App**](https://github.com/AhmedHaseen/ConfidFace-Web-App) | `JavaScript` `AI/ML` `Full Stack` | AI-powered face confidence analysis web application |
+| 🤖 | [**ConfidFace — AI Mock Interview Platform**](https://github.com/AhmedHaseen/ConfidFace-Web-App) | `Next.js` `Gemini AI` `D-ID` `n8n` `Clerk` | AI-powered interview simulator with avatar interviewer, voice capture & automated feedback |
 
 </div>
 
