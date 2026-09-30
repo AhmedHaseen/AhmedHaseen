@@ -10,7 +10,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&random=false&width=520&height=45&lines=Intern+Data+Analyst+%40+MAS+Holdings;Turning+Raw+Data+Into+Insights+%F0%9F%93%8A;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Aspiring+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&random=false&width=520&height=45&lines=Intern+Data+Analyst+%40+MAS+Holdings;Turning+Raw+Data+Into+Insights+%F0%9F%93%8A;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Excel;Aspiring+Data+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -83,7 +83,7 @@
       <p>
         <img src="https://img.shields.io/badge/Since-Sep_2026-64FFDA?style=flat-square&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Focus-Data_Analytics-4FC3F7?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Tools-SAP_|_Power_BI_|_Excel-F2C811?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Tools-SAP_|_Power_BI_|_Power_Apps_|_Excel-F2C811?style=flat-square&labelColor=0D1117" />
       </p>
       <p><em>Working on data analytics, SAP-based data handling, warehouse reporting, and business intelligence in a manufacturing environment.</em></p>
     </td>
@@ -106,6 +106,7 @@
 
 ### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -119,6 +120,7 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ⚙️ Tools & Platforms
@@ -138,44 +140,42 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHaseen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9" alt="Top Languages" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedHaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=AhmedHaseen&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHaseen&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF&area_color=64FFDA&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/AhmedHaseen/telecom-customer-churn-analytics-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=telecom-customer-churn-analytics-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AhmedHaseen/swiggy-sales-data-analysis-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=swiggy-sales-data-analysis-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AhmedHaseen/data-careers-powerbi-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=data-careers-powerbi-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AhmedHaseen/mysql-portfolio-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=mysql-portfolio-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AhmedHaseen/Excel-Bike-Sales-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=Excel-Bike-Sales-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/AhmedHaseen/mysql-learning-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedHaseen&repo=mysql-learning-journey&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-</a>
+| # | Project | Tech Stack | Description |
+|:---:|:---|:---|:---|
+| 📡 | [**Telecom Customer Churn Analytics & Prediction**](https://github.com/AhmedHaseen/telecom-customer-churn-analytics-prediction) | `SQL Server` `Power BI` `Python` `Scikit-Learn` | ETL pipeline for 6K+ records, churn dashboards & Random Forest model (84% accuracy) |
+| 🍔 | [**Swiggy Sales Data Analysis**](https://github.com/AhmedHaseen/swiggy-sales-data-analysis-python) | `Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` | Analyzed 197K+ food delivery records with KPI calculations & visualizations |
+| 📊 | [**Data Careers Dashboard**](https://github.com/AhmedHaseen/data-careers-powerbi-dashboard) | `Power BI` `Power Query` `DAX` | Interactive dashboard analyzing 630+ data professionals' survey responses |
+| 🗄️ | [**Global Layoffs EDA**](https://github.com/AhmedHaseen/mysql-portfolio-project) | `MySQL` | Workforce reduction trends analysis using CTEs, window & ranking functions |
+| 🚲 | [**Bike Sales Analysis Dashboard**](https://github.com/AhmedHaseen/Excel-Bike-Sales-Analysis) | `Microsoft Excel` | Interactive dashboard with Pivot Tables, Charts & Slicers |
+| 📚 | [**MySQL Learning Journey**](https://github.com/AhmedHaseen/mysql-learning-journey) | `MySQL` | Comprehensive SQL learning path from basics to advanced queries |
 
 </div>
 
@@ -217,7 +217,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedHaseen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <br/>
